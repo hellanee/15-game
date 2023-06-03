@@ -1,0 +1,4 @@
+C:\Users\hellanee\source\repos\Project1\x64\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\hellanee\source\repos\Project1\x64\Debug\Project1.15 puzzle.resources
+C:\Users\hellanee\source\repos\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\hellanee\source\repos\Project1\x64\Debug\Project1.exe
